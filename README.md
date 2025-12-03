@@ -12,6 +12,26 @@
       <p>Freelance developer • Fintech & DeFi specialist</p>
     </div>
   </foreignObject>
+
+  <foreignObject x="0" y="0" width="400" height="300">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%; height:100%;">
+    <style>
+      .gradient-box {
+        background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+        background-size: 600% 400%;
+        animation: gradient 15s ease infinite;
+        width: 100%;
+        height: 100%;
+      }
+      @keyframes gradient {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+    </style>
+    <div class="gradient-box"></div>
+  </div>
+</foreignObject>
 </svg>
 ```
 
@@ -49,3 +69,4 @@ README.md (lo que ves en GitHub)
 ├── Featured projects (con links)
 ├── GitHub Stats
 └── Contact + Links
+

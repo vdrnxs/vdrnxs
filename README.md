@@ -1,75 +1,32 @@
-```
-    ___       __     _                 _____ _                      __
-   /   \  ___/ /____(_)___ _____      / ___/(_)______   _____  ____/ /_
-  / /| | / __  / ___/ / __ `/ __ \     \__ \/ / ___/ | / / _ \/ __  __/
- / ___ |/ /_/ / /  / / /_/ / / / /    ___/ / / /   | |/ /  __/ /_/ /_
-/_/  |_|\__,_/_/  /_/\__,_/_/ /_/    /____/_/_/    |___/\___/\__/\__/
-
-```
-
-<div align="center">
-
-**AI-Powered Full-Stack Developer | DeFi Strategist & Web3 Builder**
-
-*Especializado en sistemas financieros, trading algorítmico y soluciones blockchain*
-
-</div>
-
----
-
-## 👨‍💻 About Me
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-AI--driven-171717?style=flat)
 
 Desarrollador full-stack especializado en **sistemas financieros** y **tecnología blockchain**. Mi trabajo se centra en la construcción de infraestructuras fintech seguras, fiables y escalables con tecnología de vanguardia impulsada por inteligencia artificial.
 
-Experiencia en desarrollo de **bots de trading algorítmico**, **smart contracts**, **tokenización de activos reales (RWA)** y **protocolos DeFi**. Enfoque técnico riguroso con máxima confidencialidad y soluciones pensadas para crecer en el tiempo.
+## Tech Stack
 
-Trabajo con machine learning para optimización de estrategias financieras, análisis predictivo y automatización inteligente de procesos.
+<div align="center">
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-## 🛠️ Tech Stack
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://ethereum.org/)
 
-### Core Languages
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
-![Python](https://img.shields.io/badge/Python-FF4C3B?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E40C5B?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-645AFF?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-FF4C3B?style=for-the-badge&logo=solidity&logoColor=white)
+[![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-412991?logo=openai&logoColor=white)](https://openai.com/)
+[![Anthropic](https://img.shields.io/badge/Anthropic-Claude-CC9B7A?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 
-### Fintech & Trading
+</div>
 
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic_Trading-E40C5B?style=for-the-badge&logo=bitcoin&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-645AFF?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Risk Management](https://img.shields.io/badge/Risk_Management-FF4C3B?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-E40C5B?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Blockchain & Web3
-
-![Ethereum](https://img.shields.io/badge/Ethereum-645AFF?style=for-the-badge&logo=ethereum&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF4C3B?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-E40C5B?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-645AFF?style=for-the-badge&logo=ethereum&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-FF4C3B?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### Full-Stack Development
-
-![React](https://img.shields.io/badge/React-E40C5B?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-645AFF?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF4C3B?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E40C5B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-645AFF?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF4C3B?style=for-the-badge&logo=docker&logoColor=white)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-E40C5B?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-645AFF?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF4C3B?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-E40C5B?style=for-the-badge&logo=zapier&logoColor=white)
-
----
-
-## 💼 Especialización
+## Especialización
 
 - **Trading Algorithms & Bots** — Desarrollo de estrategias automatizadas con análisis predictivo y gestión de riesgo
 - **Smart Contracts & Tokenization** — Contratos inteligentes, tokenización de activos reales (RWAs) y protocolos DeFi
@@ -77,12 +34,3 @@ Trabajo con machine learning para optimización de estrategias financieras, aná
 - **AI-Driven Solutions** — Integración de IA en aplicaciones empresariales para automatización inteligente
 
 ---
-
-<div align="center">
-
-```
-© 2025 Adrián Sirvent
-Building the future of fintech with AI
-```
-
-</div>

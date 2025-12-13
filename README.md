@@ -3,7 +3,7 @@
 
 Desarrollador full-stack especializado en **sistemas financieros** y **tecnología blockchain** (DeFi). Mi trabajo se centra en la construcción de infraestructuras fintech seguras, fiables y escalables con tecnología de vanguardia impulsada por inteligencia artificial.
 
-[Medium](https://medium.com/@tu-usuario) • [𝕏 (Twitter)](https://twitter.com/tu-usuario) • [Telegram](https://t.me/tu-usuario)
+[Medium](https://medium.com/@0xAdrien) • [𝕏 (Twitter)](https://twitter.com/vdrnxs) • [Telegram](https://t.me/vdrnxs)
 
 ## Tech Stack
 

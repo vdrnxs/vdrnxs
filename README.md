@@ -1,6 +1,6 @@
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-AI--driven-171717?style=flat)
 
-B2B freelancer full-stack engineer. Strong tech-lead capabilities. Specialized in scalable backend systems, web3 protocol design, and fintech infrastructure. Delivers fast, solves hard problems, and optimizes everything.
+B2B freelancer full‑stack engineer. Strong tech‑lead capabilities. Specialized in scalable backend systems, web3 infrastructure, and fintech platforms. Delivers fast, solves hard problems, and optimizes everything.
 
 [Medium](https://medium.com/@0xAdrien) • [𝕏 (Twitter)](https://twitter.com/vdrnxs) • [Telegram](https://t.me/vdrnxs)
 

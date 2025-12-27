@@ -18,7 +18,6 @@ B2B freelancer full‑stack developer. Strong tech‑lead capabilities. Speciali
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github&logoColor=white)](https://github.com/features/actions)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?logo=openai&logoColor=white)](https://openai.com/)
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude-CC9B7A?logo=anthropic&logoColor=white)](https://www.anthropic.com/)

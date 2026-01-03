@@ -2,7 +2,7 @@
 
 B2B Full‑Stack Developer & Fractional Tech Lead specialized in React, Node.js, and TypeScript, focused on building reliable and scalable products from scratch.
 
-I ship 4× faster by applying modern methodologies and high‑efficiency tooling that reduce friction and speed up execution.
+Leveraging modern methodologies and high‑efficiency tooling allows me to deliver up to 4× faster through a workflow designed for both speed and quality.
 
 I turn business goals into shipped features with rapid iteration and lean MVP execution, ensuring high‑quality software that scales with the company.
 

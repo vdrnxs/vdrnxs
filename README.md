@@ -1,8 +1,10 @@
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-AI--driven-171717?style=flat)
 
-B2B Full-Stack Developer & Fractional Tech Lead specialized in React, Node.js, and TypeScript, focused on building reliable and scalable products from scratch.
+B2B Full‑Stack Developer & Fractional Tech Lead specialized in React, Node.js, and TypeScript, focused on building reliable and scalable products from scratch.
 
-I bridge the gap between business goals and execution through rapid iteration and lean MVP delivery, ensuring high-quality software that scales alongside the company.
+I ship 4× faster by applying modern methodologies and high‑efficiency tooling that reduce friction and speed up execution.
+
+I turn business goals into shipped features with rapid iteration and lean MVP execution, ensuring high‑quality software that scales with the company.
 
 [Medium](https://medium.com/@0xAdrien) • [𝕏 (Twitter)](https://twitter.com/vdrnxs) • [Telegram](https://t.me/vdrnxs)
 

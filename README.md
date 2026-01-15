@@ -8,9 +8,7 @@ Expertise in MVPs and early‑stage products, turning ideas into real value thro
 
 Partnering with teams and founders on key technical decisions, prioritization, and roadmap planning to accelerate time‑to‑market.
 
-Approach: clarity, speed, quality, and strong product thinking.
-
-[Medium](https://medium.com/@0xAdrien) • [𝕏 (Twitter)](https://twitter.com/vdrnxs) • [Telegram](https://t.me/vdrnxs)
+[Linkedin](https://linkedin.ciom/in/adriansirvent) | https://linkedin.ciom/in/adriansirvent
 
 ## Tech Stack
 

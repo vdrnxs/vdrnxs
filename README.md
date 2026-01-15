@@ -8,7 +8,7 @@ Expertise in MVPs and early‑stage products, turning ideas into real value thro
 
 Partnering with teams and founders on key technical decisions, prioritization, and roadmap planning to accelerate time‑to‑market.
 
-[Linkedin](https://linkedin.ciom/in/adriansirvent) | https://linkedin.ciom/in/adriansirvent
+[Linkedin](https://linkedin.com/in/adriansirvent) | https://linkedin.com/in/adriansirvent
 
 ## Tech Stack
 

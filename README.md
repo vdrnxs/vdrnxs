@@ -10,6 +10,8 @@ Partnering with teams and founders on key technical decisions, prioritization, a
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -23,7 +25,6 @@ Partnering with teams and founders on key technical decisions, prioritization, a
 ### AI & Integrations
 [![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?logo=openai&logoColor=white)](https://openai.com/)
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude-CC9B7A?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
-[![MCP](https://img.shields.io/badge/MCP-5B5BD6?style=flat&logoColor=white)](https://modelcontextprotocol.io/)
 
 </td>
 <td valign="top" width="50%">
@@ -44,3 +45,5 @@ Partnering with teams and founders on key technical decisions, prioritization, a
 </td>
 </tr>
 </table>
+
+</div>

@@ -3,9 +3,7 @@
 Barcelona-based dev, now living in the Netherlands.
 
 3+ years building software through personal projects and freelance work —
-React, Node.js, and TypeScript, with hands-on experience in blockchain and DeFi.
-
-I focus on shipping real things from scratch — MVPs, tools, and experiments
+React, Node.js, and TypeScript, with hands-on experience in blockchain and DeFi. Focused on shipping real things from scratch — MVPs, tools, and experiments
 — each project faster, cleaner, and better than the last.
 
 Looking to bring that into a professional team and keep growing.

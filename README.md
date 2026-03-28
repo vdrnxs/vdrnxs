@@ -1,24 +1,15 @@
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-AI--driven-171717?style=flat)
 
-### English:
+Barcelona-based dev, now living in the Netherlands.
 
-Barcelona-based dev, now based in the Netherlands.
+3+ years building software through personal projects and freelance work —
+React, Node.js, and TypeScript, with hands-on experience in blockchain and DeFi.
 
-+3 years of hands‑on experience developing software. Currently developing personal projects while actively seeking my first professional role in tech. Specialized in React, Node.js, and TypeScript, with solid experience across blockchain ecosystems and DeFi‑related concepts.
+I focus on shipping real things from scratch — MVPs, tools, and experiments
+— each project faster, cleaner, and better than the last.
 
-Focused on building reliable and scalable products from scratch through modern methodologies, high‑efficiency tooling, and optimized workflows that enable me to deliver high‑quality solutions up to 4× faster.
+Looking to bring that into a professional team and keep growing.
 
-Expert in MVPs and early‑stage products, helping startups and founding teams turn ideas into real value through rapid iteration, key technical decision‑making, prioritization, and an optimized roadmap that reduces time‑to‑market.
-
-### Español:
-
-Desde Barcelona, ahora construyendo desde los Países Bajos.
-
-+3 años de experiencia práctica desarrollando software. Actualmente desarrollando proyectos propios mientras busco activamente mi primer rol profesional en tech. Especializado en React, Node.js y TypeScript, con sólida experiencia en ecosistemas blockchain y conceptos relacionados con DeFi.
-
-Enfocado en construir productos fiables y escalables desde cero mediante metodologías modernas, herramientas de alta eficiencia y flujos de trabajo optimizados que me permiten entregar soluciones de alta calidad hasta 4× más rápido.
-
-Experto en MVPs y productos en etapas iniciales, ayudando a startups y equipos fundadores a transformar ideas en valor real mediante iteración rápida, decisiones técnicas clave, priorización y un roadmap optimizado que reduce el time‑to‑market.
 
 ## Tech Stack
 

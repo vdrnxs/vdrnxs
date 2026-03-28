@@ -2,7 +2,9 @@
 
 ### English:
 
-+3 years of hands‑on experience developing software. Currently working as a B2B Full‑Stack Developer and Fractional Tech Lead specialized in React, Node.js, and TypeScript, with solid experience across blockchain ecosystems and DeFi‑related concepts.
+Barcelona-based dev, now based in the Netherlands.
+
++3 years of hands‑on experience developing software. Currently developing personal projects while actively seeking my first professional role in tech. Specialized in React, Node.js, and TypeScript, with solid experience across blockchain ecosystems and DeFi‑related concepts.
 
 Focused on building reliable and scalable products from scratch through modern methodologies, high‑efficiency tooling, and optimized workflows that enable me to deliver high‑quality solutions up to 4× faster.
 
@@ -10,7 +12,9 @@ Expert in MVPs and early‑stage products, helping startups and founding teams t
 
 ### Español:
 
-+3 años de experiencia práctica desarrollando software. Actualmente desempeño roles de Desarrollador Full‑Stack B2B y Fractional Tech Lead especializado en React, Node.js y TypeScript, con sólida experiencia en ecosistemas blockchain y conceptos relacionados con DeFi.
+Desde Barcelona, ahora construyendo desde los Países Bajos.
+
++3 años de experiencia práctica desarrollando software. Actualmente desarrollando proyectos propios mientras busco activamente mi primer rol profesional en tech. Especializado en React, Node.js y TypeScript, con sólida experiencia en ecosistemas blockchain y conceptos relacionados con DeFi.
 
 Enfocado en construir productos fiables y escalables desde cero mediante metodologías modernas, herramientas de alta eficiencia y flujos de trabajo optimizados que me permiten entregar soluciones de alta calidad hasta 4× más rápido.
 
